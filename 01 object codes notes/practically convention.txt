@@ -1,0 +1,4 @@
+This specification - which all a user or client of this object needs to see (he isn't interested in the implementation details) - would normally be placed in a file with a .h (h = header) suffix to its name.
+For the collection, we would place the specifications in files called something.h and use the C #include facility to import them into programs which needed to use them. 
+The implementation or body of the class is placed in a file with a .c or the .cpp suffix. 
+Hence we learned the headers and the implementation file which we'll later user in the data-structures implmentation!
