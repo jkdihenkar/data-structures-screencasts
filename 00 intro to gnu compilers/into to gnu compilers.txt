@@ -1,0 +1,39 @@
+Hello friends, let's start with the GNU Compiler Collection - GCC
+
+It's the free open source Compiler collection and used mostly
+ for C and C++ programming! It's professionally used for compiling the
+ realworld application! The importance of learning the GCC Collection and
+ programming in this environment instead of TurboC or with any other compiler
+ that this compiler suite is used widely and extensively for almost all of 
+ C and C++ projects. Linux Kernel compiles through GCC!!
+ 
+So!! Thats intro... Lets gets started! :)
+
+--> 1. Obtaining the GCC
+    Download the tar.gz!
+    extract
+    <login as root>
+    ./configure
+    make
+    make install
+    <and the tool will be installed!!> -- but mostly this compiler suite is available by default under unix and mac environment!
+    How to check???
+2. Compiling the C files
+3. Compiling the C++ files
+
+Note for TurboC users : 
+1. The GNU GCC Compiler doesn/t have the "conio.h" library!
+      so dont use the functions : "clrscr()" and "getch()"
+2. the main() function must have "int" return type!
+      void main() -->generates error!
+      int main() --> is correct!
+      
+      Soo thats all for this screen cast! See you in the next :)
+      Thanks for watching! :)
+
+
+
+
+
+
+
